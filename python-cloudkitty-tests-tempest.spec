@@ -120,3 +120,4 @@ rm -rf doc/build/html/.{doctrees,buildinfo} doc/build/html/objects.inv
 
 %changelog
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/cloudkitty-tempest-plugin/commit/e1e27f361835e1f5506bcab3bb85f0cdc4f6b626
