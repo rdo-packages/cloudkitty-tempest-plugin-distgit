@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "c58614de8a9f9dc250fc63ae4d0f465766bb0dca",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bb5c3447_c104c828",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 207
+      },
+      "writtenOn": "2026-06-29T08:50:24Z",
+      "side": 1,
+      "message": "Error is because it requires python 3.10 at least in the requirements.",
+      "revId": "c58614de8a9f9dc250fc63ae4d0f465766bb0dca",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     }
   ]
 }
